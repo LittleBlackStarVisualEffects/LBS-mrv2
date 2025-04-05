@@ -1,3 +1,3 @@
 # -*- coding: utf-8 -*-
-"""Package declaring AYON addon 'mrv2' version."""
+"""Package declaring AYON addon 'MRV2' version."""
 __version__ = "0.1.1+dev"
